@@ -1,2 +1,2 @@
 
-select name from v$database;
+select sysdate+3 from dual;
