@@ -1,2 +1,2 @@
 
-select sysdate+3 from dual;
+select sysdate+1 from dual;
